@@ -15,7 +15,7 @@ namespace AOP.Aspect.Attr
             if (_caching.IsExist(cacheKey))
             {
                 result = _caching.Get<object>(cacheKey);
-                Console.WriteLine("{0} isimli cache key ile cache üzerinden geliyorum!", cacheKey);
+                Console.WriteLine("{0} get caching", cacheKey);
             }
 
             return result;
