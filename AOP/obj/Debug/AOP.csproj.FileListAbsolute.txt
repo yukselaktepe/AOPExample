@@ -1,0 +1,13 @@
+D:\Projeler\AOPExample\AOP\bin\Debug\AOP.dll
+D:\Projeler\AOPExample\AOP\bin\Debug\AOP.pdb
+D:\Projeler\AOPExample\AOP\obj\Debug\AOP.csproj.CoreCompileInputs.cache
+D:\Projeler\AOPExample\AOP\obj\Debug\AOP.dll
+D:\Projeler\AOPExample\AOP\obj\Debug\AOP.pdb
+D:\Projeler\AOPExample\AOP\bin\Debug\Logger.dll
+D:\Projeler\AOPExample\AOP\bin\Debug\Logger.pdb
+D:\Projeler\AOPExample\AOP\obj\Debug\AOP.csprojAssemblyReference.cache
+D:\Projeler\AOPExample\AOP\obj\Debug\AOP.csproj.CopyComplete
+D:\Projeler\AOPExample\AOP\bin\Debug\Newtonsoft.Json.dll
+D:\Projeler\AOPExample\AOP\bin\Debug\Newtonsoft.Json.xml
+D:\Projeler\AOPExample\AOP\bin\Debug\Caching.dll
+D:\Projeler\AOPExample\AOP\bin\Debug\Caching.pdb

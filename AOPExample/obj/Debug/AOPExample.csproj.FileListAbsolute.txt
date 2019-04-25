@@ -1,0 +1,16 @@
+D:\Projeler\AOPExample\AOPExample\bin\Debug\AOPExample.exe.config
+D:\Projeler\AOPExample\AOPExample\bin\Debug\AOPExample.exe
+D:\Projeler\AOPExample\AOPExample\bin\Debug\AOPExample.pdb
+D:\Projeler\AOPExample\AOPExample\bin\Debug\AOP.dll
+D:\Projeler\AOPExample\AOPExample\bin\Debug\AOP.pdb
+D:\Projeler\AOPExample\AOPExample\obj\Debug\AOPExample.csprojAssemblyReference.cache
+D:\Projeler\AOPExample\AOPExample\obj\Debug\AOPExample.csproj.CoreCompileInputs.cache
+D:\Projeler\AOPExample\AOPExample\obj\Debug\AOPExample.csproj.CopyComplete
+D:\Projeler\AOPExample\AOPExample\obj\Debug\AOPExample.exe
+D:\Projeler\AOPExample\AOPExample\obj\Debug\AOPExample.pdb
+D:\Projeler\AOPExample\AOPExample\bin\Debug\Logger.dll
+D:\Projeler\AOPExample\AOPExample\bin\Debug\Logger.pdb
+D:\Projeler\AOPExample\AOPExample\bin\Debug\Newtonsoft.Json.dll
+D:\Projeler\AOPExample\AOPExample\bin\Debug\Newtonsoft.Json.xml
+D:\Projeler\AOPExample\AOPExample\bin\Debug\Caching.dll
+D:\Projeler\AOPExample\AOPExample\bin\Debug\Caching.pdb

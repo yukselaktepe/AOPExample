@@ -1,0 +1,6 @@
+D:\Projeler\AOPExample\Logger\bin\Debug\Logger.dll
+D:\Projeler\AOPExample\Logger\bin\Debug\Logger.pdb
+D:\Projeler\AOPExample\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\Projeler\AOPExample\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Projeler\AOPExample\Logger\obj\Debug\Logger.dll
+D:\Projeler\AOPExample\Logger\obj\Debug\Logger.pdb
